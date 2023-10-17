@@ -51,7 +51,7 @@ function draw() {
   background(230);
   Engine.update(engine);
   textSize(25);
-  text("Hit the mangoes with the stone!!",50 ,50);
+  text("Aim and try to hit the mangoes with the stone!!!",50 ,50);
   image(boy ,200,340,200,300);
   
 
